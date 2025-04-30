@@ -1,0 +1,1 @@
+This project implements an intelligent question answering system that allows users to ask natural language questions over the content of PDF files. Leveraging modern NLP tools like LangChain, HuggingFace Transformers, and FAISS, the system retrieves and generates accurate responses grounded in the source material.
